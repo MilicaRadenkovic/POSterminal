@@ -74,7 +74,7 @@ public class CountryArticles{
 			select= new JComboBox<String>();
 			select.setBounds(150,15,200,30);
 			select.grabFocus();
-			quantity=new JLabel("Qtty:");
+			quantity=new JLabel("Qty:");
 			quantity.setBounds(100,100,70,20);
 			field=new JTextField();
 			field.setBounds(170,100,100,30);
